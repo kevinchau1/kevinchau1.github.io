@@ -4,7 +4,7 @@ This is my home page! My name is Kevin Chau and I am a student at [Cal State Ful
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/kevinchau1.
+My GitHub page is [http://github.com/kevinchau1](http://github.com/kevinchau1).
 
 ### CPSC 120
 
